@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    margin: 92px auto 24px;
+    max-width: 1184px;
+    justify-content: space-between;
+}
+@media (max-width:1024px) {
+    .footer {
+        display: flex;
+        margin: 92px auto 24px;
+        max-width: 928px;
+        justify-content: space-between;
+    }
+}
+@media (max-width:1024px) {
+    .footer {
+        display: flex;
+        margin: 92px auto 24px;
+        max-width: 928px;
+        justify-content: space-between;
+    }
+}
+@media (max-width:768px) {
+    .footer {
+        display: flex;
+        margin: 88px auto 24px;
+        max-width: 720px;
+        justify-content: space-between;
+    }
+}

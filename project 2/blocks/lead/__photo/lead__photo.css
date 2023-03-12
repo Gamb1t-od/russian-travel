@@ -1,0 +1,25 @@
+.lead__photo {
+    max-width: 984px;
+    margin: 0 auto;
+}
+@media (max-width:1024px) {
+    .lead__photo
+    {
+        max-width: 928px;
+        margin: 0 auto;
+    }
+}
+@media (max-width:768px) {
+    .lead__photo
+    {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+}
+@media (max-width:320px) {
+    .lead__photo
+    {
+        max-width: 320px;
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,12 @@
+.place__paragraph {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;   
+    max-width: 484px;
+    grid-area: paragraph;
+    margin: 0 auto; 
+    margin-bottom: 26px;
+}
+.place__paragraph:last-child {
+margin: 0 auto;
+}
