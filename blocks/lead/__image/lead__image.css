@@ -1,9 +1,0 @@
-.lead__image {
-    margin: 64px auto 0;
-}
-
-@media (max-width:767px) {
-    .lead__image {
-        margin: 38px auto 0;
-    }
-}
